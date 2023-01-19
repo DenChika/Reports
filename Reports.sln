@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports.Clients", "Reports.Clients\Reports.Clients.csproj", "{53C5249B-2678-43D1-8758-F493EAC714EB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports.DAL", "Reports.DAL\Reports.DAL.csproj", "{C1C57EA9-E498-4CA0-A4F7-91CE9571B4EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports.Server", "Reports.Server\Reports.Server.csproj", "{972480EA-E7E6-4BB9-9D3A-95CB630DA46B}"
